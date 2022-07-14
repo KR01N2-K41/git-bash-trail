@@ -1,2 +1,2 @@
 # git-test
- trying out git 
+ trying out git bash
